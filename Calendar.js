@@ -135,7 +135,7 @@ class Calendar extends Component {
                             event: this.Event
                         }}
                     />
-                </React.Fragment>
+               
         );
     }
 }
